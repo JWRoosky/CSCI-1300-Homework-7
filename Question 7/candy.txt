@@ -1,0 +1,4 @@
+Fearsome Fudge|A delectably dangerous confectionary concoction! Causes fright!|4.37|Debuff
+Tricky Treacle|Some deliciously tart treacle. Warning, may cause bad luck!|2.79|Debuff
+Lucky Licorice|A subtly sweet licorice, known to bring good luck to the owner|3.15|Buff
+Strengthening Skittles|A valuable pack of skittles reknowned for their ability to provide super-human strength|7.77|Buff
